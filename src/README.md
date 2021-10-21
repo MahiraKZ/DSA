@@ -21,3 +21,7 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 https://leetcode.com/problems/find-peak-element/
 
 https://leetcode.com/problems/max-consecutive-ones/
+
+**Memory Allocation in Java**
+
+https://www.guru99.com/java-stack-heap.html
