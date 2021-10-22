@@ -25,3 +25,13 @@ https://leetcode.com/problems/max-consecutive-ones/
 **Memory Allocation in Java**
 
 https://www.guru99.com/java-stack-heap.html
+
+**2D Arrays Practice Problems**
+
+https://leetcode.com/problems/set-matrix-zeroes/
+
+https://leetcode.com/problems/spiral-matrix/
+
+https://leetcode.com/problems/spiral-matrix-ii/
+
+https://leetcode.com/problems/rotate-image/
