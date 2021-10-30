@@ -7,10 +7,12 @@ public class CommonElements {
         int[] C = new int[]{-1,0,3,4,15,20,20,30,70,80,120};
 
         int i = 0, j = 0, k= 0;
+        int temp = 0;                    //To keep track of matched values
 
         while(i < A.length && j < B.length && k < C.length) {
-            if(A[i] == B[j] && B[j] == C[k]) {
+             if(A[i] == B[j] && B[j] == C[k] && temp!=A[i]) {
                 System.out.println(A[i]);
+                temp = A[i];            // Check if previous value is same or not
                 i++;j++;k++;
             }
             else if(A[i] < B[j]) {
